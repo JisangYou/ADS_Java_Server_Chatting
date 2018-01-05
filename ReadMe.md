@@ -274,7 +274,7 @@ class WebServer extends Thread {
 
 ![서버,클라이언트](http://cfile22.uf.tistory.com/image/2375F64D56FCCE5B252A2A)
 
-- 서버
+- 서버 예제 코드
 
 ```Java
 public class Server {
@@ -324,7 +324,7 @@ public class Server {
 
 
 
-- 클라이언트
+- 클라이언트 예제 코드 
 
 ```Java
 public class Client {
